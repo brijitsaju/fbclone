@@ -1,0 +1,59 @@
+
+*{
+    margin: 0px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+body{
+    font-family: Helvetica, sans-serif;
+    
+}
+
+
+.box{
+    margin-left :450px;;
+    margin-right:350px;
+    background-color: white;
+    padding:10px ;
+    text-align: center;
+    align-items: center;
+    border-radius: 5px;
+    width: 380px;
+    height: 290px;
+    box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+
+}
+#username{
+    height: 40px;
+    width: 350px;
+    border-radius:10px ;
+     border-color: black; 
+}
+#password{
+    height: 40px;
+    width: 350px;
+    border-radius:10px ;
+    border-color: black;
+
+}
+#button{height: 50px;
+    width: 380px;
+    background-color: #1877f2;
+    color: white;
+    font-size: x-large;
+    border-radius:10px ;
+    border: none;
+
+}
+.link{
+    color: #1877f2;
+    
+
+}
+#color{
+    background-color: rgb(238, 241, 241);
+    height: 500px;
+}
